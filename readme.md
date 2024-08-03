@@ -41,11 +41,11 @@ To run the projects, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/di0nar4p/Streamlit_Learning.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repository/projects/project-name
+    cd Streamlit_Learning
     ```
 3. Install the required dependencies:
     ```bash
