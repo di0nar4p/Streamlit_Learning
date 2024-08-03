@@ -31,10 +31,6 @@ I am currently focusing on the following topics:
 - Building simple interactive web applications
 - Exploring advanced features and functionalities
 
-## Projects
-
-You can find the projects and examples I have worked on in the `projects` folder. Each project includes detailed explanations and code to help you understand the concepts better.
-
 ## How to Run the Projects
 
 To run the projects, follow these steps:
