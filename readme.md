@@ -49,7 +49,7 @@ To run the projects, follow these steps:
     ```
 4. Run the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run index.py
     ```
 
 Feel free to explore and contribute to the repository. Let's learn and build amazing data apps with Streamlit together!
